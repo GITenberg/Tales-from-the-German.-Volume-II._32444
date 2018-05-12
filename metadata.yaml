@@ -1,0 +1,43 @@
+_repo: Tales-from-the-German.-Volume-II._32444
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Greene, Nathaniel
+    aliases:
+    - Green, Peter N.
+    - Green, Nathaniel P.
+    - Greene, Peter
+    birthdate: 1797
+    deathdate: 1877
+    gutenberg_agent_id: '831'
+    url: http://www.gutenberg.org/2009/agents/831
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Velde, C. F. van der (Carl Franz)
+    aliases:
+    - Velde, Carl Franz van der
+    - Van der Velde, C. F. (Carl Franz)
+    - Velde, Karl Franz van der
+    birthdate: 1779
+    deathdate: 1824
+    gutenberg_agent_id: '35650'
+    url: http://www.gutenberg.org/2009/agents/35650
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+tableOfContents: 'The Lichtensteins: a tale of the times of the thirty years war --
+  The sorceress -- The anabaptist: a tale of the first half of the sixteenth century.'
+title: Tales from the German.  Volume II.
+url: http://www.gutenberg.org/ebooks/32444
